@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.thoughtworks.basicapp"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "microservice",
+    "baseName": "basicapp",
+    "packageName": "com.thoughtworks.basicapp",
+    "packageFolder": "com/thoughtworks/basicapp",
+    "serverPort": "8900",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "M2JjYjMxZDBhYTIyZTU0MTliZjQ3ZGRjYTA3ZDIzMTVhNWNiZDUyZTc0YzY4YTg2ZmM5YWRhN2ZhMTk2N2E4ZTk1NjAxY2Y1MmM1MjUyNDdkMWZjZTA2YjRmNjNmMmVlMjlhOGEyYjIzYThkYjk0MWFkMjRiZmQyYWE3NjZiYzY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1592557811448,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
