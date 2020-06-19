@@ -1,0 +1,21 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "basicapp",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20200619092330",
+  "dto": "no",
+  "searchEngine": false,
+  "service": "no",
+  "entityTableName": "bus",
+  "databaseType": "sql",
+  "readOnly": true,
+  "jpaMetamodelFiltering": false,
+  "pagination": "no",
+  "microserviceName": "basicapp"
+}
